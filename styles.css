@@ -30,7 +30,7 @@ body{
     border-radius:16px;
     width:375px;
     /* height:70%; */
-    margin:9% auto;
+    margin:5% auto;
     gap:2rem;
 }
 #qr-code-image{
